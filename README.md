@@ -1,1 +1,3 @@
-# abarth500.github.io
+# 首都大学東京　横山研究室
+
+[一時的に新しいURLで運営しています。こちらをご覧ください。](https://tmu.yokoyama.ac/)
